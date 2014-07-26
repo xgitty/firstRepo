@@ -11,15 +11,15 @@ fb($var);
 FB::send($var);
 
 ob_end_flush();
+
 //comment 4
 
-<<<<<<< HEAD
 //new message
-=======
+
 //comment conflict
 
 //new branch fix
->>>>>>> fix2
+
 ?>
 
 <script>
